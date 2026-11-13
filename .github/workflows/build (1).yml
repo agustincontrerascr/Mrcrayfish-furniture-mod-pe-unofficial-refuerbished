@@ -43,5 +43,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: MrCrayfishFurniture_Couches-apk
-          path: MrCrayfishFurnitureMod-MCPE/MrCrayfishFurniture_Couches.apk
+          name: MrCrayfishFurnitureMod-MCPE-con-bloques-js-apk
+          path: MrCrayfishFurnitureMod-MCPE-con-bloques-js/MrCrayfishFurnitureMod-MCPE-con-bloques-js.apk
